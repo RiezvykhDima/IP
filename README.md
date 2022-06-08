@@ -1,1 +1,1 @@
-# using this library you can to know your IP
+# using this library you can to know local or public IP address

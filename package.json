@@ -1,7 +1,7 @@
 {
-  "name": "ip",
-  "version": "1.0.0",
-  "description": "",
+  "name": "to-know-ip",
+  "version": "1.0.1-alpha",
+  "description": "using this library you can to know local or public IP address. When calling a function 'getIpInfo', pass parameter you want: 'public' or 'local'",
   "main": "index.js",
   "scripts": {
     "build": "nodemon ./src/local.IP.js/index.js",
